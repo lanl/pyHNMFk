@@ -5,6 +5,11 @@ The identification of sources of advection-diffusion transport is based usually 
 ## Citation
 [Vangara, R., Rasmussen, K. Ø., Petsev, D. N., Bel, G., & Alexandrov, B. S. (2020). Identification of anomalous diffusion sources by unsupervised learning. Physical Review Research, 2(2), 023248.](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023248)
 
+## Authors
+- Vesselin Grantcharov
+- Raviteja Vangara
+- Boian S. Alexandrov
+
 ## Copyright Notice
 Copyright 2016. Los Alamos National Security, LLC. This software was produced under U.S. Government contract DE-AC52-06NA25396 for Los Alamos National Laboratory (LANL), which is operated by Los Alamos National Security, LLC for the U.S. Department of Energy. The U.S. Government has rights to use, reproduce, and distribute this software.  NEITHER THE GOVERNMENT NOR LOS ALAMOS NATIONAL SECURITY, LLC MAKES ANY WARRANTY, EXPRESS OR IMPLIED, OR ASSUMES ANY LIABILITY FOR THE USE OF THIS SOFTWARE.  If software is modified to produce derivative works, such modified software should be clearly marked, so as not to confuse it with the version available from LANL.
  
